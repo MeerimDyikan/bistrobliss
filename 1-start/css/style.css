@@ -228,13 +228,14 @@ width: 500px;
 
 }
 
-_ .browse_ic {
-	width: 100px;
-	height: 100px;
+.browse_ic {
+	width: 42px;
+	height: 43px;
 	display: block;
 	border-radius: 50%;
 	background-image: #f3f3f3 url(../img/icons/browse-1.svg)center no-repeat;
 	margin: 0 auto 30px;
+	
 }
 
 .browse_tit {
