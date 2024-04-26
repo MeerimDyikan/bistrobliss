@@ -488,6 +488,88 @@ margin-bottom: 30px;
 .offer_card {
 	width: calc((100% - 72px) / 4 );
 }
+.customers{
+	width: 1600px;
+height: 766px;
+top: 4199px;
+gap: 0px;
+opacity: 0px;
+
+}
+.customers_tit{
+	width: 626px;
+height: 61px;
+
+
+font-family: Playfair Display;
+font-size: 55px;
+font-weight: 500;
+line-height: 60.5px;
+text-align: center;
+margin-bottom: 30px;
+width: 346px;
+height: 140px;
+margin-bottom: 40px;
+
+}
+.customer_tit{width: 237px;
+	height: 30px;
+	gap: 0px;
+	opacity: 0px;
+color: #AD343E;
+
+font-family: DM Sans;
+font-size: 24px;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: -0.03em;
+text-align: left;
+margin-bottom: 30px;
+}
+.customer_p{
+
+font-family: DM Sans;
+font-size: 18px;
+font-weight: 400;
+line-height: 28px;
+text-align: left;
+width: 346px;
+height: 140px;
+margin-bottom: 70px;
+
+}
+.customer_footer{
+	width: 211px;
+height: 70px;
+gap: 20px;
+opacity: 0px;
+
+}
+.customer_ic{
+	width: 70px;
+height: 70px;
+gap: 0px;
+opacity: 0px;
+
+}
+.customer_name{
+
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+text-align: left;
+
+}
+.customer_city{
+	
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+
+}
 
 .blog_top {
 	margin-bottom: 65px;
@@ -914,6 +996,7 @@ opacity: 0px;
 .our-menu .sec_txt{
 	max-width: 557px;
 	text-align: center;
+	
 	margin: o auto 50 px;
 	
 }
