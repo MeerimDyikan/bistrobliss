@@ -832,6 +832,22 @@ left: 318px;
 border-radius: 12px, 12px, 0px, 0px;
 
 }
+.our_card{
+	width: 346px;
+height: 328px;
+top: 45px;
+left: 35px;
+gap: 32px;
+opacity: 0px;
+
+}
+.our_customer{
+	width: 70px;
+height: 70px;
+gap: 0px;
+opacity: 0px;
+
+}
 .our-menu .page_tit{
 	margin-bottom: 20px;
 }
